@@ -18,15 +18,15 @@ const Premium = () => {
           <h6 className="text-center text-primary">Kahala Bouqet</h6>
         </div>
         <div className="flex flex-col items-center">
-          <img src={product_2} alt="Product 2" className="w-full max-w-xs" />
+          <img src={product_2} alt="Momoko Bouqet" className="w-full max-w-xs" />
           <h6 className="text-center text-primary">Momoko Bouqet</h6>
         </div>
         <div className="flex flex-col items-center">
-          <img src={product_3} alt="Product 3" className="w-full max-w-xs" />
+          <img src={product_3} alt="Purple Roses Bouqe" className="w-full max-w-xs" />
           <h6 className="text-center text-primary">Purple Roses Bouqet</h6>
         </div>
         <div className="flex flex-col items-center">
-          <img src={product_4} alt="Product 4" className="w-full max-w-xs" />
+          <img src={product_4} alt="Vanda Bouqet" className="w-full max-w-xs" />
           <h6 className="text-center text-primary">Vanda Bouqet</h6>
         </div>
       </div>
