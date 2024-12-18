@@ -1,14 +1,13 @@
-// products.jsx
-import items from "../Data/Items"; // items fonksiyonunu import ediyoruz
+import items from "../Data/Items"; 
 import crown from "../../assets/premium/crown.png"
 
 const Products = () => {
-  const productList = items(); // items fonksiyonunu çağırıyoruz
+  const productList = items(); 
 
   return (
     <div>
       {/* Başlık kısmı */}
-      <div className="flex items-center justify-center space-x-4">
+      <div className="container mx-auto flex items-center justify-center space-x-4 my-8">
         <img src={crown} alt="Crown" className="w-16 h-auto" />
         <h1 className="text-4xl text-primary">PRODUCTS</h1>
       </div>

@@ -1,4 +1,5 @@
 import './App.css'
+import Discount from './components/Discount/Discount'
 import Hero from './components/Hero/Hero'
 import { Navbar } from './components/Navbar/Navbar'
 import Premium from './components/Premium/Premium'
@@ -12,6 +13,7 @@ function App() {
     <Hero/>
     <Premium/>
     <Products/>
+    <Discount/>
     </div>
   )
 }

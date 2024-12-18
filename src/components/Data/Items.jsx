@@ -1,10 +1,9 @@
-// src/data/items.js
 import product_1 from "../../assets/premium/product-1.png";
 import product_2 from "../../assets/premium/product-2.png";
 import product_3 from "../../assets/premium/product-3.png";
 import product_4 from "../../assets/premium/product-4.png";
 
-// Item'lar için fonksiyon
+
 const items = () => {
   return [
     {
@@ -27,6 +26,7 @@ const items = () => {
       image: product_4,
       name: "Ürün 4"
     },
+    
     
   ];
 };
