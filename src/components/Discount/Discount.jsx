@@ -2,7 +2,7 @@ import crown from "../../assets/premium/crown.png";
 
 const Discount = () => {
   return (
-    <div className="px-4 py-8">
+    <div id="discounts" className="px-4 py-8">
   <div className="flex items-center justify-center space-x-4 my-8">
     <img src={crown} alt="Crown" className="w-16 h-auto" />
     <h1 className="text-4xl text-primary">DISCOUNTS</h1>

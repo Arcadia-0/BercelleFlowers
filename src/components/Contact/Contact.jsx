@@ -3,7 +3,7 @@ import logo from "../../assets/logofooter.png";
 
 const Contact = () => {
   return (
-    <footer style={{ backgroundColor: '#DCC2E4' }} className="text-footerColor py-8 px-4">
+    <footer id="contact" style={{ backgroundColor: '#DCC2E4' }} className="text-footerColor py-8 px-4">
       <div className="flex justify-center">
         <h1 className="text-4xl font-bold">Contact Us</h1>
       </div>

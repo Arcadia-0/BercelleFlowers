@@ -9,22 +9,22 @@ const items = () => {
     {
       id: 1,
       image: product_1, 
-      name: "Ürün 1"
+      name: "Kahala Bouqet"
     },
     {
       id: 2,
       image: product_2,
-      name: "Ürün 2"
+      name: "Momoko Bouqet"
     },
     {
       id: 3,
       image: product_3,
-      name: "Ürün 3"
+      name: "Purple Roses Bouqet"
     },
     {
       id: 4,
       image: product_4,
-      name: "Ürün 4"
+      name: "Vanda Bouqet"
     },
     
     

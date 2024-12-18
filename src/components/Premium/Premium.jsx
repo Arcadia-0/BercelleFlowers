@@ -7,7 +7,7 @@ import product_4 from "../../assets/premium/product-4.png";
 const Premium = () => {
   return (
     <div>
-      <div className="flex items-center justify-center space-x-4 my-8 ">
+      <div id="premium" className="flex items-center justify-center space-x-4 my-8 ">
         <img src={crown} alt="Crown" className="w-16 h-auto" />
         <h1 className="text-4xl text-primary">PREMIUM</h1>
       </div>
