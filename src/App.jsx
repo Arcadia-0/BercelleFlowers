@@ -1,4 +1,5 @@
 import './App.css'
+import CircleSection from './components/Circle/CircleSection'
 import Discount from './components/Discount/Discount'
 import Hero from './components/Hero/Hero'
 import { Navbar } from './components/Navbar/Navbar'
@@ -14,6 +15,7 @@ function App() {
     <Premium/>
     <Products/>
     <Discount/>
+    <CircleSection/>
     </div>
   )
 }
