@@ -12,6 +12,7 @@ export default {
     colors:{
       primary: '#A86F5E', // Brown
       secondary: '#EC8FAA', // Pink
+      footerColor:'#8E2424'
     }
   },
   plugins: [],

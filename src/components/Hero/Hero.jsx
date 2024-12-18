@@ -13,7 +13,7 @@ const Hero = () => {
         
         {/* İçerik */}
         <div className="p-4 lg:p-8 lg:w-1/2">
-          <h1 style={{ color: '#8E2424' }} className="text-center text-3xl sm:text-4xl lg:text-5xl font-playfairDisplay mb-8">
+          <h1  className="text-center text-footerColor text-3xl sm:text-4xl lg:text-5xl font-playfairDisplay mb-8">
             DISCOUNT
           </h1>
           
